@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../first-react-project/src"
+		},
+		{
+			"path": "../../first-react-project/node_modules"
+		},
+		{
+			"path": "../../first-react-project/public"
+		}
+	],
+	"settings": {}
+}
